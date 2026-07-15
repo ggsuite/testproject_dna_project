@@ -1,4 +1,4 @@
-﻿# E2E Guide (v1.1.0)
+﻿# E2E Guide (v1.2.0)
 
 ## [policy] Richtlinie
 
