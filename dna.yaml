@@ -1,0 +1,15 @@
+dna:
+  order:
+    - gg_dna_ggsuite
+  dependencies:
+    gg_dna_ggsuite:
+      git: https://github.com/ggsuite/gg_dna_ggsuite.git
+  config:
+    claude:
+      claude_md:
+        include:
+          - dna/agents/conventions
+          - project_structure.md
+      skills:
+        include:
+          - dna/agents/skills
