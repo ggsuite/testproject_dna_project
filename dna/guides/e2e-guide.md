@@ -1,9 +1,9 @@
-﻿# E2E Guide (v1.2.0)
+# E2E Guide (v1.2.0)
 
-## [policy] Richtlinie
+## Richtlinie
 
 Standard-Richtlinie.
 
 ## Kontakt
 
-Verantwortlich: {{owner|niemand}}
+Verantwortlich: niemand
