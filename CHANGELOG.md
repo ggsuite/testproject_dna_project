@@ -2,6 +2,10 @@
 
 ## Unreleased
 
+### Added
+
+- Add .gitignore
+
 ### Changed
 
 - Migrate to the current ggsuite DNA
